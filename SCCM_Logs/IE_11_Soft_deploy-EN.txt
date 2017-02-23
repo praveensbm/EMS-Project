@@ -1,0 +1,4 @@
+3/14/2016 1:05:18 PM - IE 11 source download started.
+3/14/2016 1:05:22 PM - Successfully copied all IE 11 install files to: D:\Installers\IE11
+3/14/2016 1:05:22 PM - IE11 directory size is: 194.4 MB
+3/14/2016 1:05:22 PM - Successfully hid the D:\Installers directory.
